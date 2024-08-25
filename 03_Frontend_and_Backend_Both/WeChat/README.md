@@ -1,5 +1,5 @@
-# Snappy - Chat Application 
-Snappy is chat application build with the power of MERN Stack. You can find the tutorial [here](https://www.youtube.com/watch?v=otaQKODEUFs)
+# WEchat - Chat Application 
+WeChat is a chat application build with the power of MERN Stack. 
 
 
 ![login page](./images/snappy_login.png)
@@ -12,7 +12,7 @@ Snappy is chat application build with the power of MERN Stack. You can find the 
 - [Nodejs](https://nodejs.org/en/download)
 - [Mongodb](https://www.mongodb.com/docs/manual/administration/install-community/)
 
-Both should be installed and make sure mongodb is running.
+Both should be installed and make sure Mongodb is running.
 ### Installation
 
 #### First Method
