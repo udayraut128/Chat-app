@@ -1,7 +1,7 @@
 function Login() {
   return (
    <>
-   <div>helkjhkjfhkfhdsfjkdsf
+   <div className="text-2xl">helkjhkjfhkfhdsfjkdsf
     d
     fsdlo</div>
    </>

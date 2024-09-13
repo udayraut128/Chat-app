@@ -9,6 +9,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 // import Chats from "./Chats"
 import Login from "./components/Login"
+import "./tailwind.css";
 
 function App() {
   return (
